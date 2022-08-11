@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "CSS - My Site",
+			"path": "."
+		},
+		{
+			"name": "HTML personal site",
+			"path": "..\\HTML personal site"
+		},
+		{
+			"name": "bootstrap 4.6",
+			"path": "..\\bootstrap 4.6"
+		},
+		{
+			"name": "E-commerce site",
+			"path": "..\\E-commerce site"
+		}
+	],
+	"settings": {}
+}
